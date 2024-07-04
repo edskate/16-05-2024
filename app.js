@@ -1,6 +1,5 @@
 console.log(1);
 
+let num;
 
-let test;
-test = 1;
-console.log(test);
+console.log(num);
